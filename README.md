@@ -1,2 +1,2 @@
-# python-project
-This repository contains a Python project that aims to provide a solution for AWS restart labs. The project is structured into different modules to ensure modularity and scalability. It includes functionalities 
+# Sudoku-project
+The project aims to enhance mathematical capability and test a person’s critical thinking. The Simple Sudoku Game uses the Tkinter module. In contrast, it displays a quality interface and allows users to interact with the application. This simple game is in a 9×9 grid board tile. The player must guess a correct number combination to solve the given puzzle. You must be wise and smart enough to solve this tricky mathematical puzzle. The Simple Sudoku Game is tough and intelligent enough to spend your time solving this puzzle. The game is necessary for beginners to understand the coding techniques used in this Python program.
